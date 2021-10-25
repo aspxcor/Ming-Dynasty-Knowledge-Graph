@@ -68,3 +68,11 @@ def FormatDescription(ss,a,b):
     d = ss[len(a) + len(b):]
     d = re.sub("&nbsp;", "", d)
     return d
+
+def getNames():
+    ans=[]
+    with open("names","r", encoding="utf-8") as f:
+        fs=f.readlines()
+        for s in fs:
+            ans.append(s.split("，")[0])
+    return ans

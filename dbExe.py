@@ -23,6 +23,31 @@ class db:
         return cursor.fetchall()
 
     def exe(self,sql):
+        print(sql)
         cursor = self.db.cursor()
         cursor.execute(sql)
         self.db.commit()
+
+def encode(ss):
+    ss.replace("\\", "\\\\")
+    ss.replace("'", "\\'")
+    return ss
+
+def decode(ss):
+    ss.replace("\\\\", "\\")
+    ss.replace("\\'", "'")
+    return ss
+
+def combineData(DataList):
+    ans=""
+    for data in DataList:
+        data=encode(data)
+        ans+="'"+data+"',"
+    return " ("+ans[:-1]+")"
+
+def combineKey(KeyList):
+    ans=""
+    for key in KeyList:
+        key=encode(key)
+        ans+=key+","
+    return " ("+ans[:-1]+")"

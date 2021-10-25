@@ -20,8 +20,10 @@ def init():
     insert_toSearch(db)
 def insert_relationship(db):
     for i in range(len(output)):
-        add_values="("+output[i][0]+","+output[i][1]+","+output[i][2]+","+output[i][3]+")"
-        db.add("relationship","(ra,rb,relationship.description)",add_values)
+        try:
+            db.add("relationship", dbExe.combineKey(["RA", "RB", "relationship", "description"]),dbExe.combineData([output[i][0], output[i][1], output[i][2], output[i][3]]))
+        except Exception:
+            pass
 def insert_toSearch(db):
     for i in range(len(output)):
         try:
