@@ -10,7 +10,7 @@ class db:
         self.exe(sql)
 
     def delete(self,Table,name,value):
-        sql="delete from "+Table+" where "+name+"="+value
+        sql="delete from "+Table+" where "+name+"="+"'"+value+"'"
         self.exe(sql)
 
     def update(self,Table,key,keyValue,name,value):
