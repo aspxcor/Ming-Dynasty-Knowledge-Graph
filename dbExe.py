@@ -16,9 +16,9 @@ class db:
     def update(self,Table,key,keyValue,name,value):
         sql = "update "+Table+" set "+name+"="+value+" where "+key+"="+keyValue
         self.exe(sql)
-    def select(self,value,table):
+    def select(self,value,table,where=""):
         cursor = self.db.cursor()
-        sql="select "+value+" from "+table+";"
+        sql="select "+value+" from "+table+where+";"
         cursor.execute(sql)
         return cursor.fetchall()
 
