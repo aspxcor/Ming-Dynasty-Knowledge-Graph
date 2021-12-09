@@ -1,0 +1,1027 @@
+{
+  "RECORDS": [
+    {
+      "relationship": "上书"
+    },
+    {
+      "relationship": "上司"
+    },
+    {
+      "relationship": "下令平定"
+    },
+    {
+      "relationship": "下属"
+    },
+    {
+      "relationship": "不合"
+    },
+    {
+      "relationship": "世祖"
+    },
+    {
+      "relationship": "丞相"
+    },
+    {
+      "relationship": "严申"
+    },
+    {
+      "relationship": "中兴局面"
+    },
+    {
+      "relationship": "主导"
+    },
+    {
+      "relationship": "主帅"
+    },
+    {
+      "relationship": "主战方"
+    },
+    {
+      "relationship": "主考官"
+    },
+    {
+      "relationship": "之一"
+    },
+    {
+      "relationship": "争论"
+    },
+    {
+      "relationship": "事件"
+    },
+    {
+      "relationship": "亡于"
+    },
+    {
+      "relationship": "交好"
+    },
+    {
+      "relationship": "交战地"
+    },
+    {
+      "relationship": "产生于"
+    },
+    {
+      "relationship": "亲历"
+    },
+    {
+      "relationship": "亲征"
+    },
+    {
+      "relationship": "仇视"
+    },
+    {
+      "relationship": "代表"
+    },
+    {
+      "relationship": "代表人物"
+    },
+    {
+      "relationship": "任命"
+    },
+    {
+      "relationship": "任用"
+    },
+    {
+      "relationship": "任职"
+    },
+    {
+      "relationship": "任职于"
+    },
+    {
+      "relationship": "优秀作家"
+    },
+    {
+      "relationship": "优秀建筑"
+    },
+    {
+      "relationship": "传播（可能）"
+    },
+    {
+      "relationship": "位于"
+    },
+    {
+      "relationship": "作序"
+    },
+    {
+      "relationship": "侍奉"
+    },
+    {
+      "relationship": "促使结束"
+    },
+    {
+      "relationship": "俘虏"
+    },
+    {
+      "relationship": "信仰"
+    },
+    {
+      "relationship": "信任"
+    },
+    {
+      "relationship": "修建"
+    },
+    {
+      "relationship": "修建于"
+    },
+    {
+      "relationship": "修撰"
+    },
+    {
+      "relationship": "修改"
+    },
+    {
+      "relationship": "修筑"
+    },
+    {
+      "relationship": "修订"
+    },
+    {
+      "relationship": "倒戈"
+    },
+    {
+      "relationship": "催生"
+    },
+    {
+      "relationship": "兄弟"
+    },
+    {
+      "relationship": "入职"
+    },
+    {
+      "relationship": "共事"
+    },
+    {
+      "relationship": "关键人物"
+    },
+    {
+      "relationship": "兴旺于"
+    },
+    {
+      "relationship": "兵败"
+    },
+    {
+      "relationship": "其他"
+    },
+    {
+      "relationship": "养亲"
+    },
+    {
+      "relationship": "养母"
+    },
+    {
+      "relationship": "养父"
+    },
+    {
+      "relationship": "内容之一"
+    },
+    {
+      "relationship": "册封"
+    },
+    {
+      "relationship": "出口商品"
+    },
+    {
+      "relationship": "出版物"
+    },
+    {
+      "relationship": "出生于"
+    },
+    {
+      "relationship": "击败"
+    },
+    {
+      "relationship": "列为"
+    },
+    {
+      "relationship": "列入"
+    },
+    {
+      "relationship": "创作"
+    },
+    {
+      "relationship": "创造"
+    },
+    {
+      "relationship": "初期首都"
+    },
+    {
+      "relationship": "删除"
+    },
+    {
+      "relationship": "前往"
+    },
+    {
+      "relationship": "前身"
+    },
+    {
+      "relationship": "前驱"
+    },
+    {
+      "relationship": "加入"
+    },
+    {
+      "relationship": "包含"
+    },
+    {
+      "relationship": "包围"
+    },
+    {
+      "relationship": "包括"
+    },
+    {
+      "relationship": "北伐"
+    },
+    {
+      "relationship": "协助"
+    },
+    {
+      "relationship": "南杨"
+    },
+    {
+      "relationship": "南榜第二名"
+    },
+    {
+      "relationship": "压制"
+    },
+    {
+      "relationship": "厌恶"
+    },
+    {
+      "relationship": "参与"
+    },
+    {
+      "relationship": "参加"
+    },
+    {
+      "relationship": "参战方"
+    },
+    {
+      "relationship": "参照"
+    },
+    {
+      "relationship": "参考"
+    },
+    {
+      "relationship": "反对"
+    },
+    {
+      "relationship": "发动"
+    },
+    {
+      "relationship": "发生于"
+    },
+    {
+      "relationship": "发生地"
+    },
+    {
+      "relationship": "发生时期"
+    },
+    {
+      "relationship": "取代"
+    },
+    {
+      "relationship": "合作"
+    },
+    {
+      "relationship": "合称"
+    },
+    {
+      "relationship": "同乡"
+    },
+    {
+      "relationship": "同事"
+    },
+    {
+      "relationship": "同僚"
+    },
+    {
+      "relationship": "同党"
+    },
+    {
+      "relationship": "同谋"
+    },
+    {
+      "relationship": "名臣"
+    },
+    {
+      "relationship": "君臣"
+    },
+    {
+      "relationship": "告发"
+    },
+    {
+      "relationship": "器重"
+    },
+    {
+      "relationship": "国难"
+    },
+    {
+      "relationship": "墓地"
+    },
+    {
+      "relationship": "处决"
+    },
+    {
+      "relationship": "处刑"
+    },
+    {
+      "relationship": "处死"
+    },
+    {
+      "relationship": "大破"
+    },
+    {
+      "relationship": "大胜"
+    },
+    {
+      "relationship": "大臣"
+    },
+    {
+      "relationship": "夫妻"
+    },
+    {
+      "relationship": "失踪于"
+    },
+    {
+      "relationship": "夸赞"
+    },
+    {
+      "relationship": "女婿"
+    },
+    {
+      "relationship": "好友"
+    },
+    {
+      "relationship": "始建于"
+    },
+    {
+      "relationship": "始置于"
+    },
+    {
+      "relationship": "姐妹"
+    },
+    {
+      "relationship": "姐弟"
+    },
+    {
+      "relationship": "姻亲"
+    },
+    {
+      "relationship": "嫡三子"
+    },
+    {
+      "relationship": "嫡次子"
+    },
+    {
+      "relationship": "嫡长子"
+    },
+    {
+      "relationship": "学习"
+    },
+    {
+      "relationship": "官员"
+    },
+    {
+      "relationship": "官职"
+    },
+    {
+      "relationship": "实施"
+    },
+    {
+      "relationship": "实行"
+    },
+    {
+      "relationship": "宠信"
+    },
+    {
+      "relationship": "审理"
+    },
+    {
+      "relationship": "宦官"
+    },
+    {
+      "relationship": "对手"
+    },
+    {
+      "relationship": "对立"
+    },
+    {
+      "relationship": "对象"
+    },
+    {
+      "relationship": "寻人刺杀"
+    },
+    {
+      "relationship": "导致"
+    },
+    {
+      "relationship": "将领"
+    },
+    {
+      "relationship": "就读于"
+    },
+    {
+      "relationship": "居于"
+    },
+    {
+      "relationship": "属于"
+    },
+    {
+      "relationship": "师从"
+    },
+    {
+      "relationship": "师父"
+    },
+    {
+      "relationship": "师生"
+    },
+    {
+      "relationship": "平反"
+    },
+    {
+      "relationship": "平反于"
+    },
+    {
+      "relationship": "平定"
+    },
+    {
+      "relationship": "并列"
+    },
+    {
+      "relationship": "并称"
+    },
+    {
+      "relationship": "应对"
+    },
+    {
+      "relationship": "废置于"
+    },
+    {
+      "relationship": "废除"
+    },
+    {
+      "relationship": "开创"
+    },
+    {
+      "relationship": "开国名将"
+    },
+    {
+      "relationship": "开国将领"
+    },
+    {
+      "relationship": "开始"
+    },
+    {
+      "relationship": "引发"
+    },
+    {
+      "relationship": "弟弟"
+    },
+    {
+      "relationship": "归顺"
+    },
+    {
+      "relationship": "形成于"
+    },
+    {
+      "relationship": "影响"
+    },
+    {
+      "relationship": "影视形象"
+    },
+    {
+      "relationship": "往来"
+    },
+    {
+      "relationship": "征伐"
+    },
+    {
+      "relationship": "征南将军"
+    },
+    {
+      "relationship": "征虏副将军"
+    },
+    {
+      "relationship": "征虏大将军"
+    },
+    {
+      "relationship": "征西将军"
+    },
+    {
+      "relationship": "征讨"
+    },
+    {
+      "relationship": "得名于"
+    },
+    {
+      "relationship": "得罪"
+    },
+    {
+      "relationship": "御医"
+    },
+    {
+      "relationship": "忠于"
+    },
+    {
+      "relationship": "悬梁于"
+    },
+    {
+      "relationship": "惯用"
+    },
+    {
+      "relationship": "成员"
+    },
+    {
+      "relationship": "成就"
+    },
+    {
+      "relationship": "战争"
+    },
+    {
+      "relationship": "战友"
+    },
+    {
+      "relationship": "战役"
+    },
+    {
+      "relationship": "战败于"
+    },
+    {
+      "relationship": "打败"
+    },
+    {
+      "relationship": "托孤"
+    },
+    {
+      "relationship": "扫除"
+    },
+    {
+      "relationship": "承平时期"
+    },
+    {
+      "relationship": "承袭"
+    },
+    {
+      "relationship": "投奔"
+    },
+    {
+      "relationship": "投降"
+    },
+    {
+      "relationship": "抗倭将领"
+    },
+    {
+      "relationship": "担任"
+    },
+    {
+      "relationship": "招抚"
+    },
+    {
+      "relationship": "拜访"
+    },
+    {
+      "relationship": "拜谒"
+    },
+    {
+      "relationship": "拥立"
+    },
+    {
+      "relationship": "挑起"
+    },
+    {
+      "relationship": "推崇"
+    },
+    {
+      "relationship": "推荐"
+    },
+    {
+      "relationship": "推行"
+    },
+    {
+      "relationship": "提出"
+    },
+    {
+      "relationship": "撰写"
+    },
+    {
+      "relationship": "支持"
+    },
+    {
+      "relationship": "收藏"
+    },
+    {
+      "relationship": "改革"
+    },
+    {
+      "relationship": "攻克"
+    },
+    {
+      "relationship": "攻取"
+    },
+    {
+      "relationship": "政策"
+    },
+    {
+      "relationship": "效仿"
+    },
+    {
+      "relationship": "效力于"
+    },
+    {
+      "relationship": "效忠"
+    },
+    {
+      "relationship": "效忠于"
+    },
+    {
+      "relationship": "敌人"
+    },
+    {
+      "relationship": "敌对"
+    },
+    {
+      "relationship": "敕修"
+    },
+    {
+      "relationship": "敕建"
+    },
+    {
+      "relationship": "文学经典"
+    },
+    {
+      "relationship": "斩杀"
+    },
+    {
+      "relationship": "朋友"
+    },
+    {
+      "relationship": "末帝"
+    },
+    {
+      "relationship": "杀害"
+    },
+    {
+      "relationship": "杀害（存疑）"
+    },
+    {
+      "relationship": "极盛时期"
+    },
+    {
+      "relationship": "标准青花问世"
+    },
+    {
+      "relationship": "死于"
+    },
+    {
+      "relationship": "母女"
+    },
+    {
+      "relationship": "母子"
+    },
+    {
+      "relationship": "治世"
+    },
+    {
+      "relationship": "治理结果"
+    },
+    {
+      "relationship": "沿用"
+    },
+    {
+      "relationship": "活捉"
+    },
+    {
+      "relationship": "流行"
+    },
+    {
+      "relationship": "游历"
+    },
+    {
+      "relationship": "源自"
+    },
+    {
+      "relationship": "父女"
+    },
+    {
+      "relationship": "父子"
+    },
+    {
+      "relationship": "牵涉"
+    },
+    {
+      "relationship": "特务机构"
+    },
+    {
+      "relationship": "献丹"
+    },
+    {
+      "relationship": "献策于"
+    },
+    {
+      "relationship": "现址"
+    },
+    {
+      "relationship": "生擒"
+    },
+    {
+      "relationship": "生活于"
+    },
+    {
+      "relationship": "画作"
+    },
+    {
+      "relationship": "皇帝"
+    },
+    {
+      "relationship": "皇帝之一"
+    },
+    {
+      "relationship": "皇陵之一"
+    },
+    {
+      "relationship": "监修"
+    },
+    {
+      "relationship": "盛行于"
+    },
+    {
+      "relationship": "相互制衡"
+    },
+    {
+      "relationship": "相关事件"
+    },
+    {
+      "relationship": "相关人物"
+    },
+    {
+      "relationship": "相关传闻"
+    },
+    {
+      "relationship": "相关地点"
+    },
+    {
+      "relationship": "相关建筑"
+    },
+    {
+      "relationship": "相关战争"
+    },
+    {
+      "relationship": "知名于"
+    },
+    {
+      "relationship": "祖孙"
+    },
+    {
+      "relationship": "禁绝"
+    },
+    {
+      "relationship": "称赞"
+    },
+    {
+      "relationship": "笔名"
+    },
+    {
+      "relationship": "第七位皇帝"
+    },
+    {
+      "relationship": "管理"
+    },
+    {
+      "relationship": "类似案件"
+    },
+    {
+      "relationship": "纪念碑"
+    },
+    {
+      "relationship": "纸币"
+    },
+    {
+      "relationship": "组成部分"
+    },
+    {
+      "relationship": "终止"
+    },
+    {
+      "relationship": "经典戏剧"
+    },
+    {
+      "relationship": "经历"
+    },
+    {
+      "relationship": "结党"
+    },
+    {
+      "relationship": "结束于"
+    },
+    {
+      "relationship": "结盟"
+    },
+    {
+      "relationship": "统领"
+    },
+    {
+      "relationship": "继承"
+    },
+    {
+      "relationship": "缓解"
+    },
+    {
+      "relationship": "编写"
+    },
+    {
+      "relationship": "罢免"
+    },
+    {
+      "relationship": "职位"
+    },
+    {
+      "relationship": "聘用"
+    },
+    {
+      "relationship": "至交"
+    },
+    {
+      "relationship": "舅舅"
+    },
+    {
+      "relationship": "良臣之一"
+    },
+    {
+      "relationship": "获得"
+    },
+    {
+      "relationship": "获罪于"
+    },
+    {
+      "relationship": "著名人物"
+    },
+    {
+      "relationship": "著名作家"
+    },
+    {
+      "relationship": "著名剧作家"
+    },
+    {
+      "relationship": "著名文学家"
+    },
+    {
+      "relationship": "著名画家"
+    },
+    {
+      "relationship": "著名画派"
+    },
+    {
+      "relationship": "著名辅臣"
+    },
+    {
+      "relationship": "葬于"
+    },
+    {
+      "relationship": "藏于"
+    },
+    {
+      "relationship": "表亲"
+    },
+    {
+      "relationship": "被俘于"
+    },
+    {
+      "relationship": "被发配至"
+    },
+    {
+      "relationship": "袭击"
+    },
+    {
+      "relationship": "西杨"
+    },
+    {
+      "relationship": "规定"
+    },
+    {
+      "relationship": "解决方法"
+    },
+    {
+      "relationship": "讨伐"
+    },
+    {
+      "relationship": "讨好"
+    },
+    {
+      "relationship": "记录"
+    },
+    {
+      "relationship": "记载"
+    },
+    {
+      "relationship": "设立"
+    },
+    {
+      "relationship": "设置"
+    },
+    {
+      "relationship": "设置于"
+    },
+    {
+      "relationship": "设计"
+    },
+    {
+      "relationship": "评价"
+    },
+    {
+      "relationship": "诋毁"
+    },
+    {
+      "relationship": "诗人"
+    },
+    {
+      "relationship": "调整"
+    },
+    {
+      "relationship": "谋划"
+    },
+    {
+      "relationship": "贸易往来"
+    },
+    {
+      "relationship": "赐书给"
+    },
+    {
+      "relationship": "赞颂"
+    },
+    {
+      "relationship": "起义"
+    },
+    {
+      "relationship": "起义波及"
+    },
+    {
+      "relationship": "跟随"
+    },
+    {
+      "relationship": "辅佐"
+    },
+    {
+      "relationship": "辅助"
+    },
+    {
+      "relationship": "辅政"
+    },
+    {
+      "relationship": "进入"
+    },
+    {
+      "relationship": "迫害"
+    },
+    {
+      "relationship": "追随"
+    },
+    {
+      "relationship": "选址"
+    },
+    {
+      "relationship": "逝世于"
+    },
+    {
+      "relationship": "部下"
+    },
+    {
+      "relationship": "重修"
+    },
+    {
+      "relationship": "重大事件"
+    },
+    {
+      "relationship": "重大战役"
+    },
+    {
+      "relationship": "重用"
+    },
+    {
+      "relationship": "镇压"
+    },
+    {
+      "relationship": "镇守"
+    },
+    {
+      "relationship": "间断实行"
+    },
+    {
+      "relationship": "限制"
+    },
+    {
+      "relationship": "陪读"
+    },
+    {
+      "relationship": "颁布"
+    },
+    {
+      "relationship": "领导"
+    },
+    {
+      "relationship": "题跋"
+    },
+    {
+      "relationship": "首次废后"
+    }
+  ]
+}
