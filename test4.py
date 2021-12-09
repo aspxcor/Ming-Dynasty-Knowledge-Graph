@@ -1,3 +1,0 @@
-import Utils
-
-Utils.getNames()
