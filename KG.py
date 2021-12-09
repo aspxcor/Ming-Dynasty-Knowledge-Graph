@@ -12,10 +12,10 @@ def read_mysql(sql):
        '''
     #打开数据库连接
     dbconn = pymysql.connect(
-        host="10.214.131.232",
-        database='kg',
-        user='eagle',
-        password='eagle402'
+        host="yourhost",
+        database='yourdatabase',
+        user='yourusername',
+        password='yourpassword'
     )
     #创建游标对象
     cur=dbconn.cursor()
