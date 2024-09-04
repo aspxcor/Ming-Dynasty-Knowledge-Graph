@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aspxcor.visitor)
 # 明代历史知识图谱
 
 ## 项目简介
